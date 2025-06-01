@@ -1,15 +1,15 @@
 # Stockdata Forecasting
 **SARIMAX Forecasts on ALFA.ST Stock Price**
 
-Collect and Prepare Data
+### Collect and Prepare Data
 
-Data Discovery
+### Data Discovery
 
-Find SARIMAX Value
+### Find SARIMAX Value
 
-Train Model
+### Train Model
 
-Make Forecast
+### Make Forecast
 
-Visualize Forecast
+### Visualize Forecast
 
